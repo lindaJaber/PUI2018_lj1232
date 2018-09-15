@@ -46,18 +46,22 @@ OR
 md PUI2018 
 ```
 2. Created an temporary environment variable **PUI2018** that points to that directory
-`set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018`
+```
+set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
+```
+
 ...To save an environment variable permanently I need to write the same line of code in a file. Since windows don't have a .bashrc ...file, I create a batch (.bat or .cmd) file that will have all the commands I want to execute upon cmd startup.
 
 3. Created a **.bat** file and named it autorun.bat
+
 ...To do that I created a .text file and then changed the extention to .bat
 
 4. Edited .bat file adding the following:
 
-:: User defined
-echo off
-set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
-doskey pui2018 = cd C:\Users\linda\Documents\GitHub\PUI2018
+...:: User defined
+...echo off
+...set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
+...doskey pui2018 = cd C:\Users\linda\Documents\GitHub\PUI2018
 
 5. 
 6. Open Run by pressing windows key +r
