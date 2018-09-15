@@ -35,7 +35,7 @@ I followed the same steps above, however I used emacs editor instead of nano.
 
 ![Alt text](../HW1_lj1232/images/docker_set_env.JPG "terminal")
 
-## Set Environment Variables on a Windows Machine:
+## Set Environment Variables locally on a Windows Machine:
 
 I also figured out how to set environment variables from the terminal on my windows machine.
 
@@ -54,7 +54,7 @@ set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
 
 3. Created a **.bat** file and named it autorun.bat
 
-   To do that I created a .text file and then changed the extention to .bat
+   To do that I created a .text file and then changed the extension to .bat
 
 4. Edited that .bat file adding the following:
 
@@ -69,7 +69,7 @@ set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
 
 6. In the left pane, navigated to HKEY_CURRENT_USER\Software\Microsoft\Command Processor
 
-7. In the right pane, right click and select String, this adds a new key into the registry.
+7. In the right pane, right click and selected String, this adds a new key into the registry.
 
 8. Named it AutoRun (mind caps)
 
