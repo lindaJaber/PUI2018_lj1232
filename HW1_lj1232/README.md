@@ -25,7 +25,7 @@ source .bashrc
 ```
 5. Check if my environment is set
 
-![ALt text](../HW1_lj1232/images/ADRF_set_env.JPG "terminal")
+![ALt text](../HW1_lj1232/images/ADRF_set%20_env.JPG "terminal")
 
       
     
