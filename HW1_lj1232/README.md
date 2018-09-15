@@ -29,11 +29,11 @@ source .bashrc
 
 ## On the Docker terminal:
 
-I followed the same steps, however I used emcs editor instead of nano.
+I followed the same steps above, however I used emcs editor instead of nano.
 
-![alttext](../PUI2018_lj1232/HW1_lj1232/images/docker_.bashrc.JPG "docker .bashrc")
+![ALt text](../PUI2018_lj1232/HW1_lj1232/images/docker_.bashrc.JPG "docker .bashrc")
 
-![alttext](../PUI2018_lj1232/HW1_lj1232/images/docker_set_env.JPG "terminal")
+![Alt text](../PUI2018_lj1232/HW1_lj1232/images/docker_set_env.JPG "terminal")
     
     
       
