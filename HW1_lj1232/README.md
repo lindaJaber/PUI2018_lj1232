@@ -41,7 +41,10 @@ I also figures out how to set environmental variables from the terminal my windo
 
 1. Created a directory **PUI2018** on my computer 
 ```
-mkdir PUI2018 **OR** 
+mkdir PUI2018 
+
+OR 
+
 md PUI2018 
 ```
 2. Created an temporary environment variable **PUI2018** that points to that directory. 
