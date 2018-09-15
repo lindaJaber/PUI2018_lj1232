@@ -50,7 +50,7 @@ md PUI2018
 set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
 ```
 
-   ** Note**: To save an environment variable permanently I had to write the same line of code in a file. Since windows don't have a .bashrc file, I created a batch (.bat or .cmd) file that will have all the commands that I want to execute upon cmd startup.
+**Note**: To save an environment variable permanently I had to write the same line of code in a file. Since windows don't have a .bashrc file, I created a batch (.bat or .cmd) file that will have all the commands that I want to execute upon cmd startup.
 
 3. Created a **.bat** file and named it autorun.bat
 
@@ -63,6 +63,8 @@ set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
    set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018  
    doskey pui2018 = cd C:\Users\linda\Documents\GitHub\PUI2018
 
+![Alt text](../HW1_lj1232/images/local_machine_ljaber_.bat.jpg ".bat file")
+    
 5. Opened Run by pressing windows key + r and typed regedit to open Registry Editor
 
 6. In the left pane, navigated to HKEY_CURRENT_USER\Software\Microsoft\Command Processor
