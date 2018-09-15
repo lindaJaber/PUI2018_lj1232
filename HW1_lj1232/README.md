@@ -32,10 +32,10 @@ source .bashrc
 I followed the same steps above, however I used emcs editor instead of nano.
 
 
-![Alt text](../PUI2018_lj1232/HW1_lj1232/images/docker_.bashrc.JPG "docker .bashrc")
+![Alt text](../HW1_lj1232/images/docker_.bashrc.JPG "docker .bashrc")
 
 
-![Alt text](../PUI2018_lj1232/HW1_lj1232/images/docker_set_env.JPG "terminal")
+![Alt text](../HW1_lj1232/images/docker_set_env.JPG "terminal")
     
     
       
