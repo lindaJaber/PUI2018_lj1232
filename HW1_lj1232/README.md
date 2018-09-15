@@ -50,27 +50,30 @@ md PUI2018
 set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
 ```
 
-   To save an environment variable permanently I need to write the same line of code in a file. Since windows don't have a .bashrc        file, I create a batch (.bat or .cmd) file that will have all the commands I want to execute upon cmd startup.
+   ** Note**: To save an environment variable permanently I had to write the same line of code in a file. Since windows don't have a .bashrc file, I created a batch (.bat or .cmd) file that will have all the commands that I want to execute upon cmd startup.
 
 3. Created a **.bat** file and named it autorun.bat
 
-...To do that I created a .text file and then changed the extention to .bat
+   To do that I created a .text file and then changed the extention to .bat
 
-4. Edited .bat file adding the following:
+4. Edited that .bat file adding the following:
 
    :: User defined  
    echo off  
    set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018  
    doskey pui2018 = cd C:\Users\linda\Documents\GitHub\PUI2018
 
-5. 
-6. Open Run by pressing windows key +r
-7. Type regedit to open Registry Editor
-8. In the left pane, navigate to HKEY_CURRENT_USER\Software\Microsoft\Command Processor
-9. In the right pane, right click and select String, this adds a new key into the registry.
-10. Name it AutoRun (mind caps)
-11.Double click AutoRun and add the path of your .bat file in the value (to get the path open your file and copy the link to it)
-Now these commands will be executed everytime you open your terminal!
+5. Opened Run by pressing windows key + r and typed regedit to open Registry Editor
+
+6. In the left pane, navigated to HKEY_CURRENT_USER\Software\Microsoft\Command Processor
+
+7. In the right pane, right click and select String, this adds a new key into the registry.
+
+8. Named it AutoRun (mind caps)
+
+9. Double click AutoRun and added the path to my .bat file in the value 
+
+
 Sources: https://nitin09.wordpress.com/2013/11/12/bashrc-in-windows-for-command-line-startup/
     
     
