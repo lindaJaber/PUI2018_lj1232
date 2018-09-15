@@ -2,7 +2,7 @@
 
 ## On the CUSP|ADRF terminal:
 
-1. Created a directory called PUI2018
+1. Created a directory named PUI2018
 ```
 mkdir PUI2018
 ```
@@ -37,28 +37,29 @@ I followed the same steps above, however I used emacs editor instead of nano.
 
 ## Set Environment Variables on a Windows Machine:
 
-I also figures out how to set environmental variables from the terminal my windows machine.
+I also figured out how to set environment variables from the terminal on my windows machine.
 
 1. Created a directory **PUI2018** on my computer 
 ```
 mkdir PUI2018 
-
 OR 
-
 md PUI2018 
 ```
-2. Created an temporary environment variable **PUI2018** that points to that directory. 
+2. Created an temporary environment variable **PUI2018** that points to that directory
 `set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018`
 ...To save an environment variable permanently I need to write the same line of code in a file. Since windows don't have a .bashrc ...file, I create a batch (.bat or .cmd) file that will have all the commands I want to execute upon cmd startup.
 
-3. Create a .bat file in a location you choose. name it for example autorun.bat
-To do that create a .text file and then change the extention to .bat
-4. Right click your .bat file and select edit.
-You can start by writing echo off so that you don't see all the commands being executed every time you open you terminal. Then write the same line of code used above to set a temporay environment variable:
+3. Created a **.bat** file and named it autorun.bat
+...To do that I created a .text file and then changed the extention to .bat
+
+4. Edited .bat file adding the following:
+
+:: User defined
+echo off
 set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
-5. Also in the .bat file write the code for alias as well:
 doskey pui2018 = cd C:\Users\linda\Documents\GitHub\PUI2018
-Note to comment in the .bat file you can use ::
+
+5. 
 6. Open Run by pressing windows key +r
 7. Type regedit to open Registry Editor
 8. In the left pane, navigate to HKEY_CURRENT_USER\Software\Microsoft\Command Processor
