@@ -16,7 +16,7 @@ export PUI2018="~/PUI2018"
 
 alias pui2018="cd $PUI2018"
 
-![ALt text](../HW1_lj1232/images/ADRF_ljaber_.bashrc.jpg ".bashrc file")
+![ALt text](PUI2018_lj1232/HW1_lj1232/images/ADRF_ljaber_.bashrc.JPG ".bashrc file")
 
 4. Reload the .bashrc file to read and execute the new commands
 
