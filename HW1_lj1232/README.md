@@ -18,12 +18,12 @@ alias pui2018="cd $PUI2018"
 
 ![Alt text](../HW1_lj1232/images/ADRF_ljaber_.bashrc.JPG ".bashrc file")
 
-4. Reload the .bashrc file to read and execute the new commands
+4. Reloaded the .bashrc file to read and execute the new commands
 
 ```
 source .bashrc
 ```
-5. Check if my environment is set
+5. Checked if my environment is set
 
 ![Alt text](../HW1_lj1232/images/ADRF_set%20_env.JPG "terminal")
 
