@@ -30,6 +30,7 @@ source .bashrc
 ## On the Docker terminal:
 
 I followed the same steps above, however I used emcs editor instead of nano.
+
 ![Alt text](../HW1_lj1232/images/docker_.bashrc.JPG "docker .bashrc")
 
 ![Alt text](../HW1_lj1232/images/docker_set_env.JPG "terminal")
