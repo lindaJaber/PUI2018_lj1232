@@ -1,4 +1,4 @@
-# Steps I took to setup my environment:
+# Steps I took to set my environment:
 
 ## On the CUSP|ADRF terminal:
 
@@ -13,6 +13,7 @@ nano .bashrc
 3. Added the following to end of the file:
 
 export PUI2018="~/PUI2018"
+
 alias pui2018="cd $PUI2018"
 
 ![ALt text](../HW1_lj1232/images/ADRF_ljaber_.bashrc.jpg ".bashrc file")
@@ -24,7 +25,7 @@ source .bashrc
 ```
 5. Check if my environment is set
 
-![ALt text](../HW1_lj1232/images/ADRF_set _env.JPG "terminal")
+![ALt text](../HW1_lj1232/images/ADRF_set_env.JPG "terminal")
 
       
     
