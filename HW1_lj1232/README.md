@@ -1,6 +1,6 @@
-## Steps I took to setup my environment:
+# Steps I took to setup my environment:
 
-# On the CUSP|ADRF terminal:
+## On the CUSP|ADRF terminal:
 
 1. Created a directory called PUI2018
 ```
@@ -24,4 +24,4 @@ source .bashrc
 ```
 5. Check if my environment is set
 
-![ALt text](../HW1_lj1232/images/ADRF_set_env "terminal")
+![ALt text](../HW1_lj1232/images/ADRF_set_env.jpg "terminal")
