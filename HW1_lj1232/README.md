@@ -58,10 +58,10 @@ set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
 
 4. Edited .bat file adding the following:
 
-...:: User defined
-...echo off
-...set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
-...doskey pui2018 = cd C:\Users\linda\Documents\GitHub\PUI2018
+   :: User defined
+   echo off
+   set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
+   doskey pui2018 = cd C:\Users\linda\Documents\GitHub\PUI2018
 
 5. 
 6. Open Run by pressing windows key +r
