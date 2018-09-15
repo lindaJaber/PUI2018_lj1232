@@ -27,5 +27,14 @@ source .bashrc
 
 ![ALt text](../HW1_lj1232/images/ADRF_set%20_env.JPG "terminal")
 
+## On the Docker terminal:
+
+I followed the same steps, however I used emcs editor instead of nano.
+
+![alttext](../PUI2018_lj1232/HW1_lj1232/images/docker_.bashrc.JPG "docker .bashrc")
+
+![alttext](../PUI2018_lj1232/HW1_lj1232/images/docker_set_env.JPG "terminal")
+    
+    
       
     
