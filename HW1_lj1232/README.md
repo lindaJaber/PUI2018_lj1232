@@ -35,14 +35,17 @@ I followed the same steps above, however I used emacs editor instead of nano.
 
 ![Alt text](../HW1_lj1232/images/docker_set_env.JPG "terminal")
 
-## Set Environmental Variables on a Windows Machine:
+## Set Environment Variables on a Windows Machine:
 
-I also figures out how to set environmental variables on my windows machine.
+I also figures out how to set environmental variables from the terminal my windows machine.
 
-1. To create a directory on your computer PUI2018 you can use the `mkdir` or `md` command from your terminal.
-2. To create an temporary environmental variable PUI2018 that points to that directory. The syntax is:
-set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018
-To save an environmental variable permanently you want to write the same line of code in a file. Since windows don't have a .bashrc file, you want to create a batch (.bat or .cmd) file that has all the commands you want to execute upon cmd startup.
+1. Created a directory **PUI2018** on my computer 
+`mkdir PUI2018` or `md PUI2018` 
+
+2. Created an temporary environment variable **PUI2018** that points to that directory. 
+`set PUI2018 = C:\Users\linda\Documents\GitHub\PUI2018`
+...To save an environment variable permanently I need to write the same line of code in a file. Since windows don't have a .bashrc ...file, I create a batch (.bat or .cmd) file that will have all the commands I want to execute upon cmd startup.
+
 3. Create a .bat file in a location you choose. name it for example autorun.bat
 To do that create a .text file and then change the extention to .bat
 4. Right click your .bat file and select edit.
