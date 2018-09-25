@@ -1,7 +1,9 @@
 # Brief
 
 I worked on this homework alone. A youtube video helped me download a 'json formatter' chrome extension to get a parsed view. A family member talked me through what is a parsed json file.  
+
 I learned how to read a csv and a json file using pandas in assignment_2. In assignment_3 I learned how to get an API key and use it retrieve information form the MTA about buses. I learned how to write a python script that executes in the command line. I learned about setting arguments in sys.argv. In assignment_4 I learned how to write a python script that retrieves data from an API and outputs to a csv file.
+
 While trying to understand read and explore the json file from the MTA API in a side notebook, I had to explicitly set the MTAKEY environment variable everytime I opened the notebook although it was set in my bashrc file. I learned later that the notebook doesn't read my bashrc file. I would like to know more about this issue.
 
 # Assignment_1
