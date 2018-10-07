@@ -17,3 +17,5 @@ Her Alternate hypothesis states:
 >### $H_0$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} = \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
 
 >### $H_a$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} \neq \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
+
+### $H_0$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} = \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
