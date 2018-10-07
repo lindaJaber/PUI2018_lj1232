@@ -10,3 +10,10 @@ Linda has taken 2 age groups to compare, i.e. **Generation X** (born between 196
 
 Her Null hypothesis states: 
 >The proportion of Generation X using CitiBike is the same as that of Millenials in a given month.
+
+Her Alternate hypothesis states:
+>The proportion of Generation X using CitiBike is different from that of Millenials in a given month.
+
+>### $H_0$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} = \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
+
+>### $H_a$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} \neq \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
