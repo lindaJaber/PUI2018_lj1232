@@ -26,5 +26,10 @@ Linda has taken CitiBike data for March 2018.
 
 The first plot showing Distribution of the number of people that used Citibike in March 2018 by year of birth does a good job of visually showing the data. As Linda has mentioned, it is immediately evident the distribution skews towards later birth years, pointing out to the fact that younger peoples have higher counts as compared to older people.
 
+I believe there is an error made ahead. Linda has mentioned initially G1 to be **Generation X** (born between 1965-1980) and G2 to be **Millenials** (born between 1981-1996). However the variables G1 and G2 created for plotting the data have used the years between 1928-1954 and 1946-1964.
 
+## Test Suggested:
+
+The data to be tested are two unpaired groups, i.e. the values in G1 do not relate to the values in G2. 
+Since the values are counts, they are numerical data. Not being aware of whether the data follows the parameters of a Gaussian curve, and having not greater than 2 parameters, I suggest using the **Mann-Whitney U Test**.
 
