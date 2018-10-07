@@ -14,8 +14,17 @@ Her Null hypothesis states:
 Her Alternate hypothesis states:
 >The proportion of Generation X using CitiBike is different from that of Millenials in a given month.
 
->### $H_0$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} = \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
+H0: G1/Gtotal = G2/Gtotal
+H1: G1/Gtotal != G2total
 
->### $H_a$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} \neq \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
+The idea behind the hypotheses seem clear enough. However, only 2 age groups are chosen. I feel like more could have been included, to involve most of the population. 
+Also, she has defined **Generation X** as people born between 1965-1980 and **Millenials** as people born between 1981-1996. These terms are fairly unofficial and they differ across various censuses/publications. However, it can be treated as an artibtrary value for this problem and since it is clearly defined, it should be alright.
 
-### $H_0$ : $\frac{G_{\mathrm{1}}}{G_{\mathrm{total}}} = \frac{G_{\mathrm{2}}}{G_{\mathrm{total}}}$
+## Analysis of Data:
+
+Linda has taken CitiBike data for March 2018.
+
+The first plot showing Distribution of the number of people that used Citibike in March 2018 by year of birth does a good job of visually showing the data. As Linda has mentioned, it is immediately evident the distribution skews towards later birth years, pointing out to the fact that younger peoples have higher counts as compared to older people.
+
+
+
