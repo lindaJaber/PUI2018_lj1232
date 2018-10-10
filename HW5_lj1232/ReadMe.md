@@ -1,8 +1,9 @@
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Chi Square	| 1, Gender | categorical | 2, choice of PTL color and overlay color| categorical | 1, age | continuous (could also be categorical) | 	Is gender (across all ages or within age groups) associated with overlay or PTL colour choice? | Gender and overlay/PTL color are not dependent | 0.05 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326) |
+![Alt text](../HW1_lj1232/images/ADRF_ljaber_.bashrc.JPG ".bashrc file")
 
-![image] (HW5_lj1232/pics/fig1.png)
+![Image](../HW5_lj1232/pics/fig1.png)
 ![image] (fig2.png)
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
