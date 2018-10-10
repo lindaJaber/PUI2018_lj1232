@@ -1,3 +1,35 @@
+# Brief
+
+I worked on the homework alone.
+
+# Assignment 1:
+
+Reviewed a classmates citibike project
+
+# Assignment 2: 
+
+Looked up literature that uses different statistical tests.
+
+Analyzed the DV and IV and their types.
+
+# Assignment 3:
+
+Reproduced an analysis done on the 'New York: Center for Employment Opportunities' program for the 'Hard to Employ'
+
+Performed the Z and chi square test for two samples (program group and control group) to check for effect and dependency.
+
+# Assignment 4:
+
+Used citibike data for one month
+
+split the data into two groups (day time and night time trips) by trip duration.
+
+performed correlation tests K-S test, Pearson’s test, and Spearman’s test on the two samples.
+
+
+
+# Assignment 2:
+
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Chi Square	| 1, Gender | categorical | 2, choice of PTL color and overlay color| categorical | 1, age | continuous (could also be categorical) | 	Is gender (across all ages or within age groups) associated with overlay or PTL colour choice? | Gender and overlay/PTL color are not dependent | 0.05 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326) |
