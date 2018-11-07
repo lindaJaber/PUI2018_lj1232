@@ -3,7 +3,7 @@ I worked on this homework alone.
 
 In Assignment one I enjoyed looking into data for my home country Lebanon.
 
-In Assignment two I finished my Citi Bike project. I found easier now to go throught the different phases of the analysis as I have built more experience. I learned about and used Authorea for the first time to write a summary about my project.
+In Assignment two I finished my Citi Bike project. I found it easier now to go through the different phases of the analysis as I have built more experience. I learned about and used Authorea for the first time to write a summary about my project.
 
 ## Assignment 1
 ![alt text](../HW8_lj1232/Syrian_Refugee_Settlements_in_Lebanon.jpeg)
