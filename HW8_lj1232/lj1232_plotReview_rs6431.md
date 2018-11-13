@@ -1,7 +1,9 @@
 ### Reviewed by rs6431
 
+
 Hi Linda,
 Good Job!
+
 **Here is the plot:**
 ![alt text](../HW8_lj1232/Syrian_Refugee_Settlements_in_Lebanon.jpeg)
 
