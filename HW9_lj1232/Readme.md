@@ -1,4 +1,5 @@
 ## Brief:
+I worked on this alone.
 
 ### Assignment 1:
 I reviewed my classmates plots. It was fun!  
