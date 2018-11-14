@@ -3,7 +3,7 @@ I worked on this alone.
 
 ### Assignment 1:
 I reviewed my classmates plots. It was fun!  
-uploaded a copy in my repo as well as there's through forking and sending a pull request.(please note that one of myy classmates didn't respond to my pull request yet.)
+uploaded a copy in my repo as well as there's through forking and sending a pull request.
 
 ### Assignment 2:
 I practiced regression models using statsmodels package
