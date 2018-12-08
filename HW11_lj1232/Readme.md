@@ -1,14 +1,14 @@
-Brief:
+# Brief:
 
 I have worked on this homework alone
 
 I asked for the 72 hr extension for this HW
 
-Assignment 1:
+# Assignment 1:
 
 timeseries and random forest trees
 
-Assignment 2:
+# Assignment 2:
 
 I improved my visualization according to my classmates recommendatiosn:
 
